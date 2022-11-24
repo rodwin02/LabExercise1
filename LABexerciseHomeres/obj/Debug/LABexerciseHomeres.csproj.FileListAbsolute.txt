@@ -1,0 +1,9 @@
+C:\Users\ComputerLab4PC1\source\repos\LABexerciseHomeres\bin\Debug\LABexerciseHomeres.exe.config
+C:\Users\ComputerLab4PC1\source\repos\LABexerciseHomeres\bin\Debug\LABexerciseHomeres.exe
+C:\Users\ComputerLab4PC1\source\repos\LABexerciseHomeres\bin\Debug\LABexerciseHomeres.pdb
+C:\Users\ComputerLab4PC1\source\repos\LABexerciseHomeres\obj\Debug\LABexerciseHomeres.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\LABexerciseHomeres\obj\Debug\LABexerciseHomeres.FrmStudentRecord.resources
+C:\Users\ComputerLab4PC1\source\repos\LABexerciseHomeres\obj\Debug\LABexerciseHomeres.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\LABexerciseHomeres\obj\Debug\LABexerciseHomeres.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\LABexerciseHomeres\obj\Debug\LABexerciseHomeres.exe
+C:\Users\ComputerLab4PC1\source\repos\LABexerciseHomeres\obj\Debug\LABexerciseHomeres.pdb
